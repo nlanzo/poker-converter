@@ -39,23 +39,8 @@ textarea {
   border-radius: 5%;
 }
 
-.convert-button-container {
-  text-align: center;
-  margin: auto;
-  min-width: fit-content;
-}
-
-.convert-button {
-  font-size: 1.5rem;
-  color: #3d52a0;
-  border-radius: 10%;
-  background-color: #8697c4;
-  min-width: fit-content;
-}
-
-.convert-button:hover {
-  background-color: #ede8f5;
-  box-shadow: 5px 5px 5px grey;
+.container-class p {
+  white-space: pre-line;
 }
 
 #preview img {
